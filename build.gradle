@@ -83,7 +83,7 @@ configure(allProjs) {
         sparkTestingBaseVersion = '2.4.3_0.12.0'
         sourceCodeVersion = '0.1.3'
         pegdownVersion = '1.4.2'
-        commonsValidatorVersion = '1.6'
+        commonsValidatorVersion = '1.7'
         commonsIOVersion = '2.6'
         scoveragePluginVersion = '1.3.1'
         xgboostVersion = '0.90'
