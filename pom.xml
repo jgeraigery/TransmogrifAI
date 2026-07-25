@@ -90,7 +90,7 @@
         <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-analyzers-opennlp</artifactId>
-            <version>7.3.0</version>
+            <version>7.5.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
